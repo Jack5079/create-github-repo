@@ -5,6 +5,7 @@ makes a github repo
 
 ## Usage
 
+These take about 30 seconds to install on my PC.
 
 ### Using `npx`
 ```bash

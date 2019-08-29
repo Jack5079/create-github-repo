@@ -1,0 +1,19 @@
+{
+  "name": "create-github-repo",
+  "version": "1.0.0",
+  "description": "makes github repos",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Jack5079",
+  "bin": {
+    "create-github-repo": "./index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.28.7",
+    "inquirer": "^7.0.0"
+  }
+}

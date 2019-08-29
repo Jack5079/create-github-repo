@@ -4,7 +4,8 @@
   "description": "makes github repos",
   "main": "index",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npx standard",
+    "build": "npx standard --fix",
     "start": "node ."
   },
   "author": "Jack5079",

@@ -7,11 +7,11 @@ makes a github repo
 
 ### Using `npx`
 ```bash
-npx https://github.com/Jack5079/create-github-repo.git
+npx https://github.com/Jack5079/create-github-repo
 ```
 
 ### Using `npm`
 ```bash
-npm install https://github.com/Jack5079/create-github-repo.git -g
+npm install https://github.com/Jack5079/create-github-repo -g
 create-github-repo
 ```

@@ -9,11 +9,11 @@ These take about 30 seconds to install on my PC.
 
 ### Using `npx`
 ```bash
-npx https://github.com/Jack5079/create-github-repo
+npx Jack5079/create-github-repo
 ```
 
 ### Using `npm`
 ```bash
-npm install https://github.com/Jack5079/create-github-repo -g
+npm i Jack5079/create-github-repo -g
 create-github-repo
 ```
